@@ -1,7 +1,7 @@
 {
     "room": "ROOM",
     "icon": null,
-    "css": "https://raw.githubusercontent.com/TheStrangerGuy/Room/master/room.css",
+    "css": "https://rawgit.com/TheStrangerGuy/Room/master/room.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
