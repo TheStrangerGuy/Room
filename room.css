@@ -1,0 +1,65 @@
+@import url("https://dl.dropboxusercontent.com/s/l90cijb6hgcr1kp/WAM.css");
+ 
+/* Interface 1 */
+#room-bar, #now-playing-bar, #history-button, #rs-skip-button {
+background: linear-gradient(to bottom,rgba(0,0,0,90) 0,rgba(30,30,30,10) 100%) !important;
+}
+#app-menu .button {
+background: rgba(51,25,42,10) !important;
+}
+.header-panel-button {
+background: linear-gradient(to bottom,rgba(0,0,0,10) 0,rgba(103,51,85,10) 100%) !important;
+}
+#rcs-progress-container .bar {
+background: rgba(89,67,82,10) !important;
+}
+/* Interface 1 */
+  
+ 
+ 
+/* Interface 2 */
+#footer {
+background: linear-gradient(to top,rgba(0,0,0,10) 0,rgba(103,51,85,10) 100%) !important;
+}
+#playlist-button {
+background: linear-gradient(to top,rgba(0,0,0,10) 0,rgba(51,25,42,10) 100%) !important;
+}
+/* Interface 2 */
+ 
+ 
+ 
+/* Button Colors */
+.header-panel-button.selected, .buttons .button.store:hover, .buttons .button:hover, #app-menu .list .logout:hover {
+background: rgba(89,67,82,10) !important;
+}
+/* Button Colors */
+ 
+ 
+ 
+/* DJ Button */
+#dj-button .left {
+background: rgba(89,67,82,10) !important;
+}
+#dj-button.is-leave .left, #dj-button.is-quit .left {
+background: rgba(51,25,42,10) !important;
+}
+/* DJ Button */
+ 
+ 
+ 
+/* Back Buttom */
+#footer-user .back, #footer-user .signup {
+    background: rgba(89,67,82,10) !important;
+    -webkit-box-shadow: inset 0 2px 0 -1px rgba(89,67,82,10) !important;
+    -moz-box-shadow: inset 0 2px 0 -1px rgba(89,67,82,10) !important;
+    box-shadow: inset 0 2px 0 -1px rgba(89,67,82,10) !important;
+}
+/* Back Buttom */
+ 
+ 
+ 
+/* Playlist */
+#playlist-menu .menu .row.selected {
+background: rgba(89,67,82,10) !important;
+}
+/* Playlist */
