@@ -2,7 +2,7 @@
  
 /* Interface 1 */
 #room-bar, #now-playing-bar, #history-button, #rs-skip-button {
-background: linear-gradient(to bottom,rgba(0,0,0,90) 0,rgba(30,30,30,10) 100%) !important;
+background: linear-gradient( to bottom,rgba(0,0,0,90) 0,rgba(30,30,30,10) 100% ) !important;
 }
 #app-menu .button {
 background: rgba(51,25,42,10) !important;
