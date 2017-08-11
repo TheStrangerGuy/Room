@@ -1,0 +1,44 @@
+{
+    "room": "ROOM",
+    "icon": null,
+    "css": "https://dl.dropboxusercontent.com/s/qkxt3df28o0px46/room.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#00A2E5",
+        "cohost": "#00A2E5",
+        "manager": "#00A2E5",
+        "bouncer": "#00A2E5",
+        "rdj": "#00A2E5",
+        "subscriber": "#8A8C91",
+        "silversubscriber": "#8A8C91",
+        "friend": null,
+        "user": "#8A8C91"
+    },
+    "images": {
+        "background": "https://dl.dropboxusercontent.com/s/inc5zwydqthxy0n/Background%20Room.jpg",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+        "emote_name": null
+    }
+}
