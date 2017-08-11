@@ -1,7 +1,7 @@
 {
     "room": "ROOM",
     "icon": null,
-    "css": "https://dl.dropboxusercontent.com/s/qkxt3df28o0px46/room.css",
+    "css": "https://raw.githubusercontent.com/TheStrangerGuy/Room/master/room.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -26,7 +26,7 @@
         "user": "#8A8C91"
     },
     "images": {
-        "background": "https://dl.dropboxusercontent.com/s/inc5zwydqthxy0n/Background%20Room.jpg",
+        "background": "https://raw.githubusercontent.com/TheStrangerGuy/Room/master/Background%20Room.jpg",
         "playback": null,
         "admin": null,
         "ambassador": null,
