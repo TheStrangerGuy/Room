@@ -17,4 +17,7 @@ background: rgba(33,33,33,10) !important;
 .votes-rs .title.meh {
 background: rgba(33,33,33,10) !important;
 }
+#vote .crowd-response .top {
+background: rgba(22,22,22,10) !important;
+}
 /* Woot Add Meh */
