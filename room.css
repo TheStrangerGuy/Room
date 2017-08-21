@@ -1,5 +1,7 @@
 @import url("https://rawgit.com/TheStrangerGuy/Room/master/WAM.css");
  
+
+
 /* Interface 1 */
 #room-bar, #now-playing-bar, #history-button, #rs-skip-button {
 background: linear-gradient(to bottom,rgba(0,0,0,90) 0,rgba(30,30,30,10) 100%) !important;
@@ -43,13 +45,10 @@ background: rgba(22,22,22,10) !important;
 #dj-button.is-leave .left, #dj-button.is-quit .left {
 background: rgba(22,22,22,10) !important;
 }
-#dj-button {
-background: rgba(33,33,33,10) !important;
-}
 /* DJ Button */
- 
- 
- 
+
+
+
 /* Back Buttom */
 #footer-user .back, #footer-user .signup {
     background: rgba(89,67,82,10) !important;
@@ -58,11 +57,3 @@ background: rgba(33,33,33,10) !important;
     box-shadow: inset 0 2px 0 -1px rgba(89,67,82,10) !important;
 }
 /* Back Buttom */
- 
- 
- 
-/* Playlist */
-#playlist-menu .menu .row.selected {
-background: rgba(89,67,82,10) !important;
-}
-/* Playlist */
